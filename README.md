@@ -38,8 +38,10 @@ Track how various product categories contribute to overall revenue.
 Date ranges, product categories, and regions for customized insights.
 
 🧰 Tools & Technologies
-Tool	Purpose
-Power BI Desktop	Data modeling and visualization
-Power Query Editor	ETL (Extract, Transform, Load)
-DAX (Data Analysis Expressions)	Calculated metrics and KPIs
-Microsoft Excel / CSV	Input data source (assumed)
+
+     Tool	                                           Purpose
+
+Power BI Desktop                        	Data modeling and visualization
+Power Query Editor	                      ETL (Extract, Transform, Load)
+DAX (Data Analysis Expressions)	          Calculated metrics and KPIs
+Microsoft Excel / CSV	                    Input data source (assumed)
