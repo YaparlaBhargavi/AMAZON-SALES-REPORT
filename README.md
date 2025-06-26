@@ -41,7 +41,7 @@ Date ranges, product categories, and regions for customized insights.
 
      Tool	                                           Purpose
 
-Power BI Desktop                        	Data modeling and visualization
-Power Query Editor	                      ETL (Extract, Transform, Load)
-DAX (Data Analysis Expressions)	          Calculated metrics and KPIs
-Microsoft Excel / CSV	                    Input data source (assumed)
+     Power BI Desktop                        	Data modeling and visualization
+     Power Query Editor	                         ETL (Extract, Transform, Load)
+    DAX (Data Analysis Expressions)	          Calculated metrics and KPIs
+    Microsoft Excel / CSV	                    Input data source (assumed)
